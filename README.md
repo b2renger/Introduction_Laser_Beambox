@@ -25,7 +25,7 @@ En dehors de ces matériaux (y compris à des épaisseurs différentes) vous dem
 
 Pour information, vous pouvez trouver ci-dessous le tableau des capacités de la machine en terme de matériaux en découpe et gravure.
 
-![](laser_assets/beamboxpro.jpg)
+![](laser_assets/beamboxpro.png)
 
 
 
