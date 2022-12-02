@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 226.77 303.48">
+  <defs>
+    <clipPath id="a27ac5c2-715b-4571-8902-4af9805f6dfa">
+      <rect width="60.74" height="18.72" fill="none"/>
+    </clipPath>
+    <pattern id="b21b523f-ea15-4fd5-afa2-cdaafcef36ce" data-name="Unnamed Pattern" width="60.74" height="18.72" patternTransform="matrix(1, 0, 0, -1, 0, 18186)" patternUnits="userSpaceOnUse" viewBox="0 0 60.74 18.72">
+      <rect width="60.74" height="18.72" fill="none"/>
+      <g clip-path="url(#a27ac5c2-715b-4571-8902-4af9805f6dfa)">
+        <path d="M58.74,0V2.34H2V0M58.74,18.72V16.38H2v2.34m-2-7H28.37V7H0M60.74,11.7H32.37V7H60.74" fill="none" stroke="red" stroke-miterlimit="22.93" stroke-width="0.01"/>
+      </g>
+    </pattern>
+  </defs>
+  <title>Fichier 2</title>
+  <g id="eeb1f4a2-9566-4336-8f6d-b0d3a0841481" data-name="Calque 2">
+    <g id="ada28e05-1cab-4988-a9f0-2d9107cf2477" data-name="Calque 1">
+      <rect width="226.77" height="303.48" fill="url(#b21b523f-ea15-4fd5-afa2-cdaafcef36ce)"/>
+    </g>
+  </g>
+</svg>
