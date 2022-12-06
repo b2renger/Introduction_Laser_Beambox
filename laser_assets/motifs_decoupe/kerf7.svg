@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57.51 33.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #12100b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <polygon class="cls-1" points="16.06 16.6 22.41 27.6 35.11 27.6 41.45 16.6 35.11 5.61 22.41 5.61 16.06 16.6"/>
+    <polyline class="cls-1" points="43.41 20.59 37.23 31.29 28.76 31.29 20.28 31.29 14.1 20.59"/>
+    <polyline class="cls-1" points="43.41 12.62 37.23 1.92 28.76 1.92 20.28 1.92 14.1 12.62"/>
+    <polyline class="cls-1" points="57.51 22.21 51.16 22.21 44.81 33.21"/>
+    <polyline class="cls-1" points="44.81 0 51.16 11 57.51 11"/>
+    <polyline class="cls-1" points="57.51 14.69 49.03 14.69 42.86 3.99"/>
+    <polyline class="cls-1" points="57.51 18.52 49.03 18.52 42.86 29.22"/>
+    <polyline class="cls-1" points="0 11 6.35 11 12.7 0"/>
+    <polyline class="cls-1" points="12.7 33.21 6.35 22.21 0 22.21"/>
+    <polyline class="cls-1" points="14.65 29.22 8.48 18.52 0 18.52"/>
+    <polyline class="cls-1" points="14.65 3.99 8.48 14.69 0 14.69"/>
+  </g>
+</svg>
