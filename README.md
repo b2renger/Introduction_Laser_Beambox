@@ -75,6 +75,7 @@ Vous pouvez importer vos fichiers par glisser / déposer
 
 
 
+![](laser_assets/motifs_decoupe/motif1.svg)
 
 
 
