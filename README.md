@@ -45,7 +45,7 @@ Dans un souci de compatibilité avec l'autre découpe laser il est préférable 
 
 Préparez vos fichier sur illustrator
 
-- Dimension de page au format de la machine (600 x 375 mm)
+- Dimension de page au format de la machine (500 x 350 mm)
 - Passer en mode RVG : Fichier -> Mode Colorimétrique du document -> Coueurs RVB
 - Dessiner le contour de la zone de travail avec un tracé d'épaisseur de contour de 0.01 en couleur JAUNE (255,255,0) => optionnel pour la beambox pro
 - Positionner vos découpes ou gravures dans cette zone
@@ -65,7 +65,15 @@ Préparez vos fichier sur illustrator
 
 Le logiciel est très simple d'utilisation mais vous pourrez trouver un guide **[ici](https://support.flux3dp.com/hc/en-us/categories/360000121176-Beambox-Guide)**
 
-Notez bien que vous pouvez aussi suivre la procédure de l'atelier maquette
+Notez bien que vous pouvez aussi suivre la procédure de l'atelier maquette.
+
+L'interface ressemble à ceci : 
+
+![](laser_assets/Interface.jpg)
+
+Vous pouvez importer vos fichiers par glisser / déposer
+
+
 
 
 
