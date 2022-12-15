@@ -116,9 +116,22 @@ Vous pouvez alors déplacer les lignes vertes horizontales et verticales pour qu
 
 ![](laser_assets/calib2.png) ![](laser_assets/calib3.png)
 
+## Ressources tracés
+
+[collection de ressources](https://leresteux.net/creation-de-boite-a-la-decoupeuse-laser/)
+
+[générateurs de boites](https://www.festi.info/boxes.py/)
+
+[fichiers svg pour les charnières vivantes](https://github.com/b2renger/Introduction_Laser_Beambox/releases/tag/1.1)
+
+[fichiers ai pour les charnières vivantes](https://github.com/b2renger/Introduction_Laser_Beambox/releases/tag/1.0)
+
 
 
 ## Comment ça marche cette machine ?
+
+[Pour aller plus loin sur la compréhension de la machine](https://edutechwiki.unige.ch/fr/D%C3%A9coupe_et_gravure_laser)
+
 ![](laser_assets/laser_basics.jpg)
 
 
