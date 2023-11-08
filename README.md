@@ -116,6 +116,29 @@ Vous pouvez alors déplacer les lignes vertes horizontales et verticales pour qu
 
 ![](laser_assets/calib2.png) ![](laser_assets/calib3.png)
 
+## Tests matériaux
+
+Vous pouvez trouver une boite contenant tous les tests de matériaux à l'atelier maquette à côté de la machine.
+
+### PMMA
+<img src="./laser_assets/material_tests/PMMA.jpg" alt="" style="width:500px;height:600px;"> 
+
+### Carton bois
+<img src="./laser_assets/material_tests/cartonbois.jpg" alt="" style="width:500px;height:600px;"> 
+
+### Carton plume
+<img src="./laser_assets/material_tests/cardboard.jpg" alt="" style="width:500px;height:600px;"> 
+
+### Carton gris
+<img src="./laser_assets/material_tests/cartongris.jpg" alt="" style="width:500px;height:600px;"> 
+
+### MDF
+<img src="./laser_assets/material_tests/mdf.jpg" alt="" style="width:500px;height:600px;"> 
+
+
+
+
+
 ## Ressources tracés
 
 [collection de ressources](https://leresteux.net/creation-de-boite-a-la-decoupeuse-laser/)
