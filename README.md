@@ -1,6 +1,6 @@
 # Introduction_Laser_Beambox
 
-Small introduction on how to use the Beambox pro laser cutter.
+Small introduction on how to use the Beambox pro laser cutter in french. Checkout the [english version](https://github.com/b2renger/Introduction_Laser_Beambox/tree/english)
 
 ![](laser_assets/PXL_20221130_081125976.jpg)
 
