@@ -127,7 +127,7 @@ Vous pouvez trouver une boite contenant tous les tests de matériaux à l'atelie
 <img src="./laser_assets/material_tests/cartonbois.jpg" alt="" style="width:500px;height:600px;"> 
 
 ### Carton plume
-<img src="./laser_assets/material_tests/cardboard.jpg" alt="" style="width:500px;height:600px;"> 
+<img src="./laser_assets/material_tests/Cardboard.jpg" alt="" style="width:500px;height:600px;"> 
 
 ### Carton gris
 <img src="./laser_assets/material_tests/cartongris.jpg" alt="" style="width:500px;height:600px;"> 
