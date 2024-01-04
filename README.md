@@ -141,15 +141,27 @@ Vous pouvez trouver une boite contenant tous les tests de matériaux à l'atelie
 
 ## Ressources tracés
 
-[collection de ressources](https://leresteux.net/creation-de-boite-a-la-decoupeuse-laser/)
+Divers liens pour vous aider, vous inspirer dans la création de tracés vectoriels pour la découpe laser
 
-[générateurs de boites](https://www.festi.info/boxes.py/)
+<img src="./laser_assets/ressources/julienlestreux.png" alt="" style="width:500px;height:400px;">
+
+[collection de ressources de Julien Lestreux - MakerCase, TemplateMaker etc. ](https://leresteux.net/creation-de-boite-a-la-decoupeuse-laser/)
+
+
+<img src="./laser_assets/ressources/boxpy.png" alt="" style="width:500px;height:400px;">
+
+[générateurs paramétriques de boites](https://www.festi.info/boxes.py/)
+
+<img src="./laser_assets/PXL_20221202_081957131.jpg" alt="" style="width:500px;height:700px;">
 
 [fichiers svg pour les charnières vivantes](https://github.com/b2renger/Introduction_Laser_Beambox/releases/tag/1.1)
 
 [fichiers ai pour les charnières vivantes](https://github.com/b2renger/Introduction_Laser_Beambox/releases/tag/1.0)
 
 
+<img src="./laser_assets/ressources/text2vector.png" alt="" style="width:500px;height:400px;">
+
+[et si on utilisait l'IA d'illustrator ?](https://www.youtube.com/watch?v=eUuHgP-dyDY&ab_channel=AndyTellsThings)
 
 ## Comment ça marche cette machine ?
 
