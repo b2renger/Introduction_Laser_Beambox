@@ -153,12 +153,9 @@ The way to go is to launch the job directly from the machine. You'll need a usb 
 6- Once it's done click "OK" and the click "START" to actually begin the job.
 
 
-
-
-
-
 <details>
-<sumary> How to launch from the beam studio software (obsolete) </sumary>
+
+<summary> How to launch from the beam studio software (obsolete) </summary>
 Once the machine has been started and you file loaded on the computer connected to the machine, you can click on the play button to start the job :
 
 ![](laser_assets/bouton.jpg)
