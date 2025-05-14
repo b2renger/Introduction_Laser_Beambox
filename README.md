@@ -128,7 +128,7 @@ For each layer you have the opportunity to choose a specific speed and power for
 
 ##  3. <a name='Gettingstartedwiththemachine'></a>Getting started with the machine
 
-##  3. <a name='Chargementdesmatriauxetlancementdeladcoupe'></a>Chargement des matériaux et lancement de la découpe
+
 
 The way to go is to launch the job directly from the machine. You'll need a usb key for that.
 
