@@ -1,4 +1,27 @@
+
 # Introduction_Laser_Beambox
+
+<!-- vscode-markdown-toc -->
+* 1- [The paths](#Thepaths)
+* 2- [The BeamStudio software (only for beambox)](#TheBeamStudiosoftwareonlyforbeambox)
+* 3- [Getting started with the machine](#Gettingstartedwiththemachine)
+* 4- [Material tests](#Materialtests)
+	* 4.1. [PMMA](#PMMA)
+	* 4.2. [Wood cardboard](#Woodcardboard)
+	* 4.3. [Foam cardboard](#Foamcardboard)
+	* 4.4. [Gray cardboard](#Graycardboard)
+	* 4.5. [MDF](#MDF)
+* 5- [Ressources for paths](#Ressourcesforpaths)
+* 6- [But how does it really work ?](#Buthowdoesitreallywork)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+
+
 
 Small introduction on how to use the Beambox pro laser cutter.
 
@@ -46,7 +69,7 @@ Finally you can save your project and transfer it to the computer connected to t
 
 
 
-## The paths
+##  1. <a name='Thepaths'></a>The paths
 
 
 Because of compatibility with the other laser cutters, it is recommended to follow the maquette workshop procedure. This procedure is valid whatever the machine you use.
@@ -69,7 +92,7 @@ Prepare your files with illustrator
 ![](laser_assets/good-bad.png)
 
 
-## The BeamStudio software (only for beambox)
+##  2. <a name='TheBeamStudiosoftwareonlyforbeambox'></a>The BeamStudio software (only for beambox)
 
 The software is very easy to use, you can find a full guide **[here](https://support.flux3dp.com/hc/en-us/categories/360000121176-Beambox-Guide)**
 
@@ -103,8 +126,39 @@ For each layer you have the opportunity to choose a specific speed and power for
 
 ![](laser_assets/menu_decoupe.jpg)
 
-## Getting started with the machine
+##  3. <a name='Gettingstartedwiththemachine'></a>Getting started with the machine
 
+##  3. <a name='Chargementdesmatriauxetlancementdeladcoupe'></a>Chargement des matériaux et lancement de la découpe
+
+The way to go is to launch the job directly from the machine. You'll need a usb key for that.
+
+1- Export your design as a  "Flux Task"
+
+![](laser_assets/BeamExport.png)
+
+2- Place the exported file on a usb key and connect it to the machine (usb on the right of the screen)
+
+3- Press the start button, the choose the usb key and the file containing your exported job 
+
+![](laser_assets/start.png)
+![](laser_assets/choose_file.png)
+
+4- Choose the origin of your job by clicking the target icon. 
+
+
+5- This will open up a camera view where you'll be able to align the green cross with the upper left corner of your material.
+
+![](laser_assets/zero.png)
+
+6- Once it's done click "OK" and the click "START" to actually begin the job.
+
+
+
+
+
+
+<details>
+<sumary> How to launch from the beam studio software (obsolete) </sumary>
 Once the machine has been started and you file loaded on the computer connected to the machine, you can click on the play button to start the job :
 
 ![](laser_assets/bouton.jpg)
@@ -118,30 +172,32 @@ Click the target icon:
 You can now move the green lines so that the align with the upper left corner of the material.
 
 ![](laser_assets/calib2.png) ![](laser_assets/calib3.png)
+</details>
 
-## Material tests
+
+##  4. <a name='Materialtests'></a>Material tests
 
 You can find a box with all the tests next to the machine in the modelling workshop.
 
-### PMMA
+###  4.1. <a name='PMMA'></a>PMMA
 <img src="./laser_assets/material_tests/PMMA.jpg" alt="" style="width:500px;height:600px;"> 
 
-### Wood cardboard
+###  4.2. <a name='Woodcardboard'></a>Wood cardboard
 <img src="./laser_assets/material_tests/cartonbois.jpg" alt="" style="width:500px;height:600px;"> 
 
-### Foam cardboard
+###  4.3. <a name='Foamcardboard'></a>Foam cardboard
 <img src="./laser_assets/material_tests/cardboard.jpg" alt="" style="width:500px;height:600px;"> 
 
-### Gray cardboard
+###  4.4. <a name='Graycardboard'></a>Gray cardboard
 <img src="./laser_assets/material_tests/cartongris.jpg" alt="" style="width:500px;height:600px;"> 
 
-### MDF
+###  4.5. <a name='MDF'></a>MDF
 <img src="./laser_assets/material_tests/mdf.jpg" alt="" style="width:500px;height:600px;"> 
 
 
 
 
-## Ressources for paths
+##  5. <a name='Ressourcesforpaths'></a>Ressources for paths
 
 [Many ressources (in french)](https://leresteux.net/creation-de-boite-a-la-decoupeuse-laser/)
 
@@ -153,7 +209,7 @@ You can find a box with all the tests next to the machine in the modelling works
 
 
 
-## But how does it really work ?
+##  6. <a name='Buthowdoesitreallywork'></a>But how does it really work ?
 
 [Going further](https://edutechwiki.unige.ch/fr/D%C3%A9coupe_et_gravure_laser)
 
