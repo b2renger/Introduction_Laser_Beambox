@@ -170,20 +170,28 @@ Vous pouvez alors déplacer les lignes vertes horizontales et verticales pour qu
 
 Vous pouvez trouver une boite contenant tous les tests de matériaux à l'atelier maquette à côté de la machine.
 
-###  4.1. <a name='PMMA'></a>PMMA
-<img src="./laser_assets/material_tests/PMMA.jpg" alt="" style="width:500px;height:600px;"> 
+Pour la découpe privilégier une Puissance de 60 et une Vitesse de 12.
 
-###  4.2. <a name='Cartonbois'></a>Carton bois
+<!--
+###  4.1. <a name='PMMA'></a>PMMA
+
+<img src="./laser_assets/material_tests/PMMA.jpg" alt="" style="width:500px;height:600px;"> -->
+
+###  <a name='Cartonbois'></a>Carton bois
 <img src="./laser_assets/material_tests/cartonbois.jpg" alt="" style="width:500px;height:600px;"> 
 
+
+
+<!--
 ###  4.3. <a name='Cartonplume'></a>Carton plume
-<img src="./laser_assets/material_tests/Cardboard.jpg" alt="" style="width:500px;height:600px;"> 
+<img src="./laser_assets/material_tests/Cardboard.jpg" alt="" style="width:500px;height:600px;"> -->
 
+<!--
 ###  4.4. <a name='Cartongris'></a>Carton gris
-<img src="./laser_assets/material_tests/cartongris.jpg" alt="" style="width:500px;height:600px;"> 
-
+<img src="./laser_assets/material_tests/cartongris.jpg" alt="" style="width:500px;height:600px;"> -->
+<!--
 ###  4.5. <a name='MDF'></a>MDF
-<img src="./laser_assets/material_tests/mdf.jpg" alt="" style="width:500px;height:600px;"> 
+<img src="./laser_assets/material_tests/mdf.jpg" alt="" style="width:500px;height:600px;"> -->
 
 
 
