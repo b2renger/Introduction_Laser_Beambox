@@ -176,20 +176,24 @@ You can now move the green lines so that the align with the upper left corner of
 
 You can find a box with all the tests next to the machine in the modelling workshop.
 
+To cut use a Power of 60 and a speed of 12.
+
+<!--
 ###  4.1. <a name='PMMA'></a>PMMA
 <img src="./laser_assets/material_tests/PMMA.jpg" alt="" style="width:500px;height:600px;"> 
-
-###  4.2. <a name='Woodcardboard'></a>Wood cardboard
+-->
+###  <a name='Woodcardboard'></a>Wood cardboard
 <img src="./laser_assets/material_tests/cartonbois.jpg" alt="" style="width:500px;height:600px;"> 
-
+<!--
 ###  4.3. <a name='Foamcardboard'></a>Foam cardboard
-<img src="./laser_assets/material_tests/cardboard.jpg" alt="" style="width:500px;height:600px;"> 
-
+<img src="./laser_assets/material_tests/cardboard.jpg" alt="" style="width:500px;height:600px;"> -->
+<!--
 ###  4.4. <a name='Graycardboard'></a>Gray cardboard
-<img src="./laser_assets/material_tests/cartongris.jpg" alt="" style="width:500px;height:600px;"> 
-
+<img src="./laser_assets/material_tests/cartongris.jpg" alt="" style="width:500px;height:600px;"> -->
+<!--
 ###  4.5. <a name='MDF'></a>MDF
 <img src="./laser_assets/material_tests/mdf.jpg" alt="" style="width:500px;height:600px;"> 
+-->
 
 
 
