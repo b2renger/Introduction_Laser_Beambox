@@ -28,7 +28,7 @@ La machine se trouve dans l'atelier bois.
 
 [fiche produit](https://www.fluxlasers.com/beambox-pro.html)
 
-**[Logiciel gratuit pour préparer vos fichiers](https://www.fluxlasers.com/service/downloads/)** : préférez la version stable en téléchargement.
+**[Logiciel gratuit pour préparer vos fichiers](https://flux3dp.com/fr/downloads/)** : préférez la version stable en téléchargement.
 
 La beambox pro est une découpeuse laser de table qui est destinée à être utilisée à terme en autonomie si les quelques règles décrites ci-après sont suivies.
 
@@ -56,7 +56,7 @@ Dans un premier temps vous devez créer vos tracés avec un outil de dessin vect
 
 Si vous souhaitez un format de découpe / gravure supérieur à celui supporté par la beambox, vous devez envoyer votre fichier à l'atelier maquette *atelier@lecolededesign.com* qui le traitera pour vous. Sinon vous pouvez continuer.
 
-Ensuite vous devez utiliser le logiciel de la machine [BeamStudio](https://www.fluxlasers.com/support/downloads/) et importer vos tracés. Vous pourrez alors choisir quels tracés vous souhaitez graver et quels tracés vous souhaiter couper.
+Ensuite vous devez utiliser le logiciel de la machine [BeamStudio](https://flux3dp.com/fr/downloads/) et importer vos tracés. Vous pourrez alors choisir quels tracés vous souhaitez graver et quels tracés vous souhaiter couper.
 
 Une fois votre projet beamstudio sauvegardé vous pouvez l'exporter afin de créer un "fichier machine". Ce fichier pourra ensuite être mis sur une clé usb, qui connectée directement à la machine pourra alors éxecuter la tache. 
 
