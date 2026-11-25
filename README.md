@@ -31,7 +31,7 @@ The machine is available in the woodworking lab.
 
 [Product sheet](https://www.fluxlasers.com/beambox-pro.html)
 
-**[Free software to prepare your files](https://www.fluxlasers.com/service/downloads/)** : please prefer the stable version in downloads.
+**[Free software to prepare your files](https://flux3dp.com/downloads/)** : please prefer the stable version in downloads.
 
 
 The beambox pro is a laser cutter that is intended to be used in autonomy by students if the following rules are followed.
